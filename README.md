@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felix Nilles</h1>
-<h3 align="center">A Cs student at hhu</h3>
+<h3 align="center">A cs student at hhu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchcraft&label=Profile%20views&color=0e75b6&style=flat" alt="marchcraft" /> </p>
 
